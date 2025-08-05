@@ -1,6 +1,6 @@
 # Automatic Waste Sorting Machine
 
-This project, developed for an Advanced Electronics course, is an automated system for sorting common waste items into three categories: metal, plastic, and glass.
+This project, developed for Advanced Electronics course, is an automated system for sorting common waste items into three categories: metal, plastic, and glass.
 
 ## How It Works
 
